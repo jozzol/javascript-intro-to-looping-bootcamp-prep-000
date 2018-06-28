@@ -20,6 +20,6 @@ function maybeTrue() {
 }
 function doWhileLoop(array){
   do {
-    array.length > 0
+    array.pop
   }
 }
