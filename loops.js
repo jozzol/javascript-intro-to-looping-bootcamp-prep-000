@@ -15,3 +15,8 @@ function whileloop(x){
   }
   return "done"
 }
+function doWhileLoop(array){
+  do {
+    array.length > 0
+  }
+}
